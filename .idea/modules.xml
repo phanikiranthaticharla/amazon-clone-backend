@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/amazon-backend.iml" filepath="$PROJECT_DIR$/.idea/amazon-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-microservice/product-microservice.iml" filepath="$PROJECT_DIR$/product-microservice/product-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-microservice/user-microservice.iml" filepath="$PROJECT_DIR$/user-microservice/user-microservice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+spring:
+  data:
+    mongodb:
+      user: root
+      password: password
+      uri: mongodb://localhost:27017/ProductsDB
+  application:
+    name: PRODUCT-SERVICE
